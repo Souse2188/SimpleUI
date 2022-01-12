@@ -1,5 +1,5 @@
 # SimpleUI
-<p> SimpleUI is a small but powerful API for the Robocraft15 project, which enables quick development of new UI for settings, gamemodes and much more. </p>
+<p> SimpleUI is a small mod for the Robocraft15 project, which enables quick development of new UI for settings, gamemodes and much more. </p>
 
 ## Links
 [Latest Release](https://github.com/Souse2188/SimpleUI/releases/tag/v0.1.0-alpha)
