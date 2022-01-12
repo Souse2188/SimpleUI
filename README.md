@@ -19,4 +19,4 @@
 5. Save the module.
 
 ## Documentation
-<p> Sorry, no documentation yet. I should have it written by the 16th </p>
+<p> Sorry, no documentation yet. :(
